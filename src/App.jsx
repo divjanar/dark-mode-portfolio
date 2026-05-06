@@ -570,7 +570,7 @@ export default function GreycardPortfolio() {
               <div className="form-socials">
                 {[
                   { label: "hello@greycard.com", href: "mailto:hello@greycard.com" },
-                  { label: "Instagram", href: "https://www.instagram.com/YOUR_USERNAME/" },
+                  { label: "Instagram", href: "https://www.instagram.com/grey_cardz/" },
                   { label: "LinkedIn", href: "https://www.linkedin.com/in/YOUR_USERNAME/" },
                   { label: "GitHub", href: "https://github.com/divjanar" },
                 ].map((l, i) => (
@@ -689,7 +689,7 @@ export default function GreycardPortfolio() {
               <h4>Socials</h4>
               <ul className="footer-links">
                 <li><a href="mailto:hello@greycard.com">Email</a></li>
-                <li><a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank" rel="noreferrer">Instagram</a></li>
+                <li><a href="https://www.instagram.com/grey_cardz/" target="_blank" rel="noreferrer">Instagram</a></li>
                 <li><a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank" rel="noreferrer">LinkedIn</a></li>
                 <li><a href="https://github.com/divjanar" target="_blank" rel="noreferrer">GitHub</a></li>
               </ul> 
